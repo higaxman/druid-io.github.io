@@ -72,6 +72,10 @@ eBay uses Druid to aggregate multiple data streams for real-time user behavior a
 * [Druid and Pulsar](http://blog.csdn.net/ebay/article/details/50205611)
 * [embedded-druid: Leveraging Druid Capabilities in Stand-alone Applications](http://www.ebaytechblog.com/2016/02/05/embedded-druid-leveraging-druid-capabilities-in-stand-alone-applications/)
 
+## EpyDoc
+
+EpyDoc is a leading provider of big data operationalization platform. We use Druid as a part of our real-time analytics modules with a strict integration with our Virtual store and DataShield technology.
+
 ## GumGum
 
 Druid powers a dashboard used internally to visualize real-time analytics on GumGum's Real Time Bidding platform. GumGum runs Druid on Amazon EC2 and can ingest up to 300,000 events per second at peak time.
